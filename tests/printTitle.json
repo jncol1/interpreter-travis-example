@@ -5,7 +5,7 @@
   "steps": [
     {
       "type": "get",
-      "url": "http://sebuilder.github.com/se-builder/"
+      "url": "https://webcom.orange.com/"
     },
     {
       "type": "storeTitle",
