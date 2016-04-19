@@ -5,7 +5,7 @@
   "steps": [
     {
       "type": "get",
-      "url": "https://webcom.orange.com/"
+      "url": "http://www.google.com/"
     },
     {
       "type": "storeTitle",
